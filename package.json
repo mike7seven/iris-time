@@ -13,5 +13,11 @@
     "express": "^4.14.0",
     "moment": "^2.15.0",
     "superagent": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "nyc": "^11.0.2",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
   }
 }
